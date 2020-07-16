@@ -4,14 +4,6 @@ Essentials package
 Submodules
 ----------
 
-Essentials.AgfaData module
---------------------------
-
-.. automodule:: Essentials.AgfaData
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
 Essentials.AgfaData3D module
 ----------------------------
 
@@ -60,30 +52,6 @@ Essentials.Data3D\_BigData\_py3 module
     :undoc-members:
     :show-inheritance:
 
-Essentials.MATLABimresize module
---------------------------------
-
-.. automodule:: Essentials.MATLABimresize
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-Essentials.ProjectionGeometryGenerator module
----------------------------------------------
-
-.. automodule:: Essentials.ProjectionGeometryGenerator
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-Essentials.TestClasses module
------------------------------
-
-.. automodule:: Essentials.TestClasses
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
 Essentials.VHPCT2DLowDoseData module
 ------------------------------------
 
@@ -108,22 +76,6 @@ Essentials.Visible\_Human\_Project\_CT\_Data\_2D module
     :undoc-members:
     :show-inheritance:
 
-Essentials.XmlVolumeFile module
--------------------------------
-
-.. automodule:: Essentials.XmlVolumeFile
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-Essentials.agfatools module
----------------------------
-
-.. automodule:: Essentials.agfatools
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
 Essentials.models module
 ------------------------
 
@@ -136,14 +88,6 @@ Essentials.myCurvelet module
 ----------------------------
 
 .. automodule:: Essentials.myCurvelet
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-Essentials.tempLearnableWavelet module
---------------------------------------
-
-.. automodule:: Essentials.tempLearnableWavelet
     :members:
     :undoc-members:
     :show-inheritance:
